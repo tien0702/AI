@@ -1,0 +1,28 @@
+[
+  [
+    {
+      "ClassName": "TT.StateController",
+      "ClassInfoName": "TT.StateInfo",
+      "data": {
+        "StateName": "dog-idle",
+        "NextStates": ["dog-walk", "dog-chase"]
+      }
+    },
+    {
+      "ClassName": "TT.StateController",
+      "ClassInfoName": "TT.StateInfo",
+      "data": {
+        "StateName": "dog-chase",
+        "NextStates": ["dog-idle", "dog-attack"]
+      }
+    },
+    {
+      "ClassName": "TT.StateController",
+      "ClassInfoName": "TT.StateInfo",
+      "data": {
+        "StateName": "dog-walk",
+        "NextStates": ["dog-idle", "dog-chase"]
+      }
+    }
+  ]
+]

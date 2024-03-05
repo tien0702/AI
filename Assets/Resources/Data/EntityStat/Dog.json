@@ -1,0 +1,34 @@
+[
+  [
+    {
+      "StatID": "ATK",
+      "BaseValue": 100,
+      "MaxFinalValue": 1000
+    },
+    {
+      "StatID": "HP",
+      "BaseValue": 100,
+      "MaxFinalValue": 1000
+    },
+    {
+      "StatID": "ASPD",
+      "BaseValue": 1000,
+      "MaxFinalValue": 1000
+    },
+    {
+      "StatID": "WalkSPD",
+      "BaseValue": 4,
+      "MaxFinalValue": 20
+    },
+    {
+      "StatID": "SPD",
+      "BaseValue": 6,
+      "MaxFinalValue": 20
+    },
+    {
+      "StatID": "Vision",
+      "BaseValue": 2,
+      "MaxFinalValue": 2
+    }
+  ]
+]

@@ -1,0 +1,24 @@
+[
+  [
+    {
+      "StatID": "ATK",
+      "BaseValue": 100,
+      "MaxFinalValue": 1000
+    },
+    {
+      "StatID": "HP",
+      "BaseValue": 100,
+      "MaxFinalValue": 1000
+    },
+    {
+      "StatID": "ASPD",
+      "BaseValue": 1000,
+      "MaxFinalValue": 1000
+    },
+    {
+      "StatID": "SPD",
+      "BaseValue": 5,
+      "MaxFinalValue": 20
+    }
+  ]
+]

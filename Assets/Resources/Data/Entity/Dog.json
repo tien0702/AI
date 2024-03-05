@@ -1,0 +1,22 @@
+[
+  [
+    {
+      "ClassName": "TT.EntityStatController",
+      "ClassInfoName": "TT.EntityInfo",
+      "data": {
+        "Type": "EntityStat",
+        "Name": "Dog",
+        "Level": 1
+      }
+    },
+    {
+      "ClassName": "TT.StateMachine",
+      "ClassInfoName": "TT.EntityInfo",
+      "data": {
+        "Type": "StateMachine",
+        "Name": "Dog",
+        "Level": 1
+      }
+    }
+  ]
+]

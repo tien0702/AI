@@ -1,0 +1,25 @@
+[
+  [
+    {
+      "ClassName": "TT.PlayAnim",
+      "ClassInfoName": "TT.PlayAnimInfo",
+      "data": {
+        "AnimName": "Attack04_SwordAndShiled"
+      }
+    },
+    {
+      "ClassName": "FeedbackHandle",
+      "ClassInfoName": "FeedbackInfo",
+      "data": {
+        "FeedbackId": "MagicNovaBlue"
+      }
+    },
+    {
+      "ClassName": "DelayCondition",
+      "ClassInfoName": "DelayInfo",
+      "data": {
+        "DelayTime": 2
+      }
+    }
+  ]
+]

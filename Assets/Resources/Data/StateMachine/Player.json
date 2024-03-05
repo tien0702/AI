@@ -1,0 +1,36 @@
+[
+  [
+    {
+      "ClassName": "TT.StateController",
+      "ClassInfoName": "TT.StateInfo",
+      "data": {
+        "StateName": "player-idle",
+        "NextStates": [ "player-skillQ", "player-run", "player-attack1" ]
+      }
+    },
+    {
+      "ClassName": "TT.StateController",
+      "ClassInfoName": "TT.StateInfo",
+      "data": {
+        "StateName": "player-run",
+        "NextStates": [ "player-skillQ", "player-idle", "player-attack1" ]
+      }
+    },
+    {
+      "ClassName": "TT.StateController",
+      "ClassInfoName": "TT.StateInfo",
+      "data": {
+        "StateName": "player-attack1",
+        "NextStates": [ "player-skillQ", "player-idle", "player-run" ]
+      }
+    },
+    {
+      "ClassName": "TT.StateController",
+      "ClassInfoName": "TT.StateInfo",
+      "data": {
+        "StateName": "player-skillQ",
+        "NextStates": [ "player-idle", "player-run" ]
+      }
+    }
+  ]
+]

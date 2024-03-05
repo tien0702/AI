@@ -1,0 +1,25 @@
+[
+  [
+    {
+      "ClassName": "TT.PlayAnim",
+      "ClassInfoName": "TT.PlayAnimInfo",
+      "data": {
+        "AnimName": "MoveFWD_Normal_InPlace_SwordAndShield"
+      }
+    },
+    {
+      "ClassName": "ClickCondition",
+      "ClassInfoName": "ClickInfo",
+      "data": {
+        "TypeCheck": true
+      }
+    },
+    {
+      "ClassName": "MoveNavMeshHandle",
+      "ClassInfoName": "MoveNavMeshInfo",
+      "data": {
+        "StatID": "SPD"
+      }
+    }
+  ]
+]

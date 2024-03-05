@@ -1,0 +1,19 @@
+[
+    [
+      {
+        "ClassName": "TT.PlayAnim",
+        "ClassInfoName": "TT.PlayAnimInfo",
+        "data": {
+          "AnimName": "Attack01_SwordAndShiled"
+        }
+      },
+      {
+        "ClassName": "InputKeyCondition",
+        "ClassInfoName": "InputKeyConditionInfo",
+        "data": {
+          "KeyName": "Space"
+        }
+      }
+    ]
+  ]
+  

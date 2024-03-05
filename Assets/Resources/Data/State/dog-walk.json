@@ -1,0 +1,32 @@
+[
+  [
+    {
+      "ClassName": "TT.PlayAnim",
+      "ClassInfoName": "TT.PlayAnimInfo",
+      "data": {
+        "AnimName": "RunForwardBattle"
+      }
+    },
+    {
+      "ClassName": "DelayCondition",
+      "ClassInfoName": "DelayInfo",
+      "data": {
+        "DelayTime": 2
+      }
+    },
+    {
+      "ClassName": "MoveByPointHandle",
+      "ClassInfoName": "MoveByPointInfo",
+      "data": {
+        "PointContainerName": "ContainerPoints"
+      }
+    },
+    {
+      "ClassName": "MoveNavMeshHandle",
+      "ClassInfoName": "MoveNavMeshInfo",
+      "data": {
+        "StatID": "WalkSPD"
+      }
+    }
+  ]
+]
